@@ -1,9 +1,7 @@
-
+Test
 LIBRARY MANAGEMENT SYSTEM ver. 2.0
 - APPLICATION AND DEVELOPER INFO -
-
 NOTE: This is a back-up copy. I made some modifications for this program when i gave it to my client. But this file will work also. Enjoy!!!!!
-
 =======================================
 :: INFORMATION OF THE DEVELOPER ::
 =======================================
